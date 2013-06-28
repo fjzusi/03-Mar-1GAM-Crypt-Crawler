@@ -1,0 +1,38 @@
+P	Player
+W	Wall
+
+L	Locked Door
+K	Key
+H0	Health Pickup 1
+H1	Health Pickup 2
+O0	Poison Pickup 1
+O1	Poison Pickup 2
+R0	Treasure 1
+R1	Treasure 2
+
+E1	Enemy Level 1
+E2	Enemy Level 2
+E3	Enemy Level 3
+E4	Enemy Level 4
+E5	Enemy Level 5
+
+S1	Spawner Level 1
+S2	Spawner Level 2
+S3	Spawner Level 3
+S4	Spawner Level 4
+S5	Spawner Level 5
+
+X	Exit
+
+T0	Wall 1
+T1	Floor 1
+T2	Wall 2
+T3	Floor 2
+T4	Wall 3
+T5	Floor 3
+T6	Wall 4
+T7	Floor 4
+T8	Wall 5
+T9	Floor 5
+
+I0	Set Piece 1 - Skull
